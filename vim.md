@@ -66,6 +66,7 @@ s        -   Delete character under cursor, then switch to insert mode
 dm       -   Delete in direction of movement m. For m, you can also use w, b, or any other variation
 dd       -   Delete entire current line
 D        -   Delete until end of line
+dt*      -   Delete from cursor until "*" char (or whatever char you put in stead of *)
 ```
 
 ### Yank & Put
